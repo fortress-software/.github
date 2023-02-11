@@ -18,7 +18,5 @@
     &nbsp;
     <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/youtube.svg" alt="Youtube"></a>
     &nbsp;
-    <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/dev.svg" alt="Dev"></a>
-    &nbsp;
     <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/discord.svg" alt="Discord"></a>
 </p>
