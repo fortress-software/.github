@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/github.svg" alt="Github"></a>
+    <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
     <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/twitter.svg" alt="Twitter"></a>
-    &nbsp;
     <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/youtube.svg" alt="Youtube"></a>
+    &nbsp;
+    <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/github.svg" alt="Github"></a>
     &nbsp;
     <a href="https://github.com/fortress-software/"><img height="20" src="/img/social/discord.svg" alt="Discord"></a>
 </p>
