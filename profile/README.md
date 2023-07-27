@@ -3,7 +3,7 @@
         <img width="300" src="/img/logo.svg" alt="Fortress Logo">
     </a>
     <a href="https://github.com/fortress-software#gh-light-mode-only" target="_blank">
-        <img width="300" src="/img/black/logo.svg" alt="Fotress Logo">
+        <img width="300" src="/img/logo.svg" alt="Fotress Logo">
     </a>
 </p>
 
